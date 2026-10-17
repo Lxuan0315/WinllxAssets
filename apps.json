@@ -1,0 +1,12 @@
+[
+  {
+    "id": "mc-launcher",
+    "name": "Minecraft 启动器",
+    "description": "Minecraft 启动器：版本与加载器（Fabric/Quilt/Forge/NeoForge）下载、多实例管理、Mod 更新检查",
+    "version": "1.0.0",
+    "asset": "https://raw.githubusercontent.com/Lxuan0315/WinllxAssets/main/mc-launcher-1.0.0.zip",
+    "sha256": "66e9cc32be9656281e4dca34117bc423636e694bf6ba588b5f1c30fa5a7e2051",
+    "size": 219769,
+    "homepage": "https://github.com/Lxuan0315/WinllxAssets"
+  }
+]
