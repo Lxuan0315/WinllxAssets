@@ -18,5 +18,15 @@
     "sha256": "66e9cc32be9656281e4dca34117bc423636e694bf6ba588b5f1c30fa5a7e2051",
     "size": 219769,
     "homepage": "https://github.com/Lxuan0315/WinllxAssets"
+  },
+  {
+    "id": "gh-accel",
+    "name": "GitHub 下载加速器",
+    "description": "把 GitHub 地址交给公共镜像加速下载：可选自动测速择优 / 直连 / 自定义镜像前缀 / 手动指定镜像，可测速比较各镜像，粘贴任意 GitHub 文件地址即可下载（支持断点续传）",
+    "version": "1.0.0",
+    "asset": "https://raw.githubusercontent.com/Lxuan0315/WinllxAssets/main/gh-accel-1.0.0.zip",
+    "sha256": "5748a1afe17151782bb6127ecee8aaa687f839259d8a962ddd171e0e75ce2167",
+    "size": 28427,
+    "homepage": "https://github.com/Lxuan0315/WinllxAssets"
   }
 ]
