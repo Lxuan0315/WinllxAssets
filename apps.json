@@ -25,8 +25,8 @@
     "description": "把 GitHub 地址交给公共镜像加速下载：可选自动测速择优 / 直连 / 自定义镜像前缀 / 手动指定镜像，可测速比较各镜像，粘贴任意 GitHub 文件地址即可下载（支持断点续传）",
     "version": "1.0.0",
     "asset": "https://raw.githubusercontent.com/Lxuan0315/WinllxAssets/main/gh-accel-1.0.0.zip",
-    "sha256": "5748a1afe17151782bb6127ecee8aaa687f839259d8a962ddd171e0e75ce2167",
-    "size": 28427,
+    "sha256": "f7258aee29a281f0ade49dac7a055409f62e98b00186f5cb01fdf2ca7e504c8f",
+    "size": 28636,
     "homepage": "https://github.com/Lxuan0315/WinllxAssets"
   }
 ]
