@@ -1,5 +1,15 @@
 [
   {
+    "id": "filee",
+    "name": "Filee 文件转换器",
+    "description": "文件格式转换器：把文件拖进窗口或选择文件，再点目标格式即可转换；支持文档、表格、演示、图片、电子书等格式互转，窗口内显示进度与历史记录",
+    "version": "1.11.0",
+    "asset": "https://raw.githubusercontent.com/Lxuan0315/WinllxAssets/main/filee-1.11.0.zip",
+    "sha256": "4044f4afe16f5f3b759fab88df2cccd09b5739dc19af296f1cf9be310078ca88",
+    "size": 73039190,
+    "homepage": "https://github.com/KnifeLemon/Filee"
+  },
+  {
     "id": "mc-launcher",
     "name": "Minecraft 启动器",
     "description": "Minecraft 启动器：版本与加载器（Fabric/Quilt/Forge/NeoForge）下载、多实例管理、Mod 更新检查",
